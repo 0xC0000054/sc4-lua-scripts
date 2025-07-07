@@ -5,10 +5,11 @@ The scripts have been extracted and renamed back to their original names using [
 
 SimCity 4 used Lua scripts for the advisors, automata, rewards, tutorials, etc.
 
+This repository is intended as a reference for SimCity 4 mod authors that makes it
+easier to explore the scripts.
+
 ## License
 
 The Lua scripts in this repository are owned by EA/Maxis.
-This repository is intended to make it easier for SimCity 4 mod authors
-to explore the scripts.
 
 This project is not affiliated with or endorsed by EA Games.
